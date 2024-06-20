@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ektatripathi&label=Profile%20views&color=0e75b6&style=flat" alt="ektatripathi" /> </p>
 
-- 🔭 I’m currently working on **Face Aging using Conditional GAN**
-
 - 👯 I’m looking to collaborate on **ML and DL projects**
 
 - 💬 Ask me about **Machine Learning, Deep Learning**
